@@ -1,0 +1,13 @@
+{
+    "name": "unn/behat-perceptual-diff",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Stoline",
+            "email": "drupal@davidstoline.com"
+        }
+    ],
+    "require": {
+        "zodyac/behat-perceptual-diff-extension": "dev-master"
+    }
+}
